@@ -1,0 +1,21 @@
+{
+  "name": "uniqueAjax",
+  "version": "1.0.0",
+  "authors": [
+    "puyao <puyao.me@gmail.com>"
+  ],
+  "description": "uniqueAjax.js",
+  "main": "../common/uniqueAjax.js",
+  "keywords": [
+    "vtion"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

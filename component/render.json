@@ -1,0 +1,15 @@
+{
+	"name": "render",
+	"version": "1.0.0",
+	"main": [
+		"../common/render.js"
+	],
+	"dependencies": {},
+	"readmeFilename": "README.md",
+	"_id": "rgraph2@1.0.0",
+	"description": "Web graph implementation by raphaeljs",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/hafeyang/rgraph2.git"
+	}
+}
