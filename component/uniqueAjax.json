@@ -1,0 +1,18 @@
+{
+	"name": "uniqueAjax",
+	"version": "1.0.0",
+	"main": [
+		"../common/uniqueAjax.js"
+	],
+	"dependencies": {
+		"jquery" : "2.1.2",
+		"responser" : "git://github.com/puyao/vtion/blob/master/component/common/responser.js"
+		},
+	"readmeFilename": "README.md",
+	"_id": "uniqueAjax@1.0.0",
+	"description": "uniqueAjax",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/puyao/vtion.git"
+	}
+}
