@@ -4,12 +4,15 @@
 	"main": [
 		"../common/render.js"
 	],
-	"dependencies": {},
+	"dependencies": {
+		"uniqueAjax" : "git://github.com/puyao/vtion/blob/master/component/common/uniqueAjax.js",
+		"template" : "git://github.com/puyao/vtion/blob/master/template/template.js"
+		},
 	"readmeFilename": "README.md",
-	"_id": "rgraph2@1.0.0",
-	"description": "Web graph implementation by raphaeljs",
+	"_id": "render@1.0.0",
+	"description": "render",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/hafeyang/rgraph2.git"
+		"url": "git://github.com/puyao/vtion.git"
 	}
 }
