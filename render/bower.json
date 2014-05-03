@@ -1,0 +1,19 @@
+{
+  "name": "render",
+  "main": "render.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/puyao/vtion",
+  "authors": [
+    "puyao <puyao.me@gmail.com>"
+  ],
+  "description": "render",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
