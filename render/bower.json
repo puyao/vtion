@@ -17,7 +17,7 @@
     "tests"
   ],
   "dependencies": {
-    "uniqueAjax": "",
-    "jquery": "2.1.1"
+    "uniqueAjax": "git://github.com/puyao/vtion/tree/master/uniqueAjax",
+    "template": "git://github.com/puyao/vtion/tree/master/template"
   }
 }

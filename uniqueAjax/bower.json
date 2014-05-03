@@ -17,7 +17,7 @@
     "tests"
   ],
   "dependencies": {
-    "response": "",
+    "responser": "git://github.com/puyao/vtion/tree/master/responser",
     "jquery": "2.1.1"
   }
 }
